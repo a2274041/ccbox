@@ -4,7 +4,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://fanmingming.com/txt?url=https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C.m3u",
+		    "url": "https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C.m3u",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
