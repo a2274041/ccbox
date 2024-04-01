@@ -1,30 +1,25 @@
 {
-	"spider":".//cc.jar",
+	"spider":".//chaobox.jar",
 	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://fanmingming.com/txt?url=https://gyssi.link/iptv/chinaiptv/%E5%B9%BF%E4%B8%9C.m3u",
+		    "url": "https://jihulab.com/dsc/cclive/-/raw/main/cclive.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 
 	"sites":[
 {"key":"豆瓣","name":"Chaobox专享┃【BY：超超工作室】","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/douban.js"},
-{"key":"t4_wo","name":"Chaobox专享┃玩偶","type":3,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"畅梦","name":"Chaobox专享┃畅梦","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/changmeng.js"},
-{"key":"嘉靓","name":"Chaobox专享┃嘉良","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://api.jialiangos.com:81/api.php/app/"},
-{"key":"js_nangua","name":"Chaobox专享┃南瓜","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "./lib/nangua.js"},
+{"key":"js_nangua","name":"Chaobox专享┃南瓜","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "./lib/nanguanew.js"},
+{"key":"drpy_js_农民","name":"Chaobox专享┃农民","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "./lib/nongminnew.js"},
+{"key":"drpy_js_网飞.TV","name":"Chaobox专享┃网飞","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"},
+{"key":"drpy_js_看韩剧","name":"Chaobox专享┃看韩剧","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看韩剧.js"},
 {"key":"348影视","name":"Chaobox专享┃348","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/348.json"},
-{"key":"骑骑影院","name":"Chaobox专享┃骑骑","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key":"子子影视","name":"Chaobox专享┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/zizi.json"},
 {"key":"速映影视","name":"Chaobox专享┃速映","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/suying.json"},
-{"key":"荐片","name":"Chaobox专享┃荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/jianpian.js"},
-{"key":"低端影视","name":"Chaobox专享┃低端","type":3,"api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/diduan.json"},
-{"key":"TVB云播","name":"Chaobox专享┃TVB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/TVB.json"},
-{"key":"555影视","name":"Chaobox专享┃555","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/555.json"},
-{"key":"csp_Voflix","name":"Chaobox专享┃Voflix","type":3,"api": "csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/voflix.json"},
-{"key":"101影院","name":"Chaobox专享┃101","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/l0l.js"},
-{"key":"可乐","name":"Chaobox专享┃可乐","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/cokemv.js"},
+{"key":"荐片","name":"Chaobox专享┃荐片","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/jianpiannew.js"},
 {"key":"lzi","name":"Chaobox专享┃量子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/liangzi.json"},
 {"key":"非凡资源","name":"Chaobox专享┃非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/ffzy.json"}
 ],
