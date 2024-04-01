@@ -1,10 +1,10 @@
 {
-  "spider": "./fty.jar;md5;800d19942365f5754f20c532cffd2242",
+  "spider": "./fty.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
 {"key":"豆瓣","name":"Chaobox专享┃【BY：超超工作室】","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"畅梦","name":"Chaobox专享┃畅梦","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/changmeng.js"},
-{"key":"js_nangua","name":"Chaobox专享┃南瓜","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/a2274041/tvbox/main/chaobox.json","searchable":1,"quickSearch":0,"filterable":0,"ext": "./lib/nanguanew.js"},
+{"key":"js_nangua","name":"Chaobox专享┃南瓜","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "./lib/nanguanew.js"},
 {"key":"drpy_js_农民","name":"Chaobox专享┃农民","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "./lib/nongminnew.js"},
 {"key":"drpy_js_网飞.TV","name":"Chaobox专享┃网飞","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"},
 {"key":"drpy_js_看韩剧","name":"Chaobox专享┃看韩剧","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看韩剧.js"},
