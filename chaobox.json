@@ -5,7 +5,7 @@
     {
     "name": "live",
     "type": 0,
-    "url": "https://ghproxy.net/https://raw.githubusercontent.com/a2274041/ccbox/main/lib/cclive.txt",
+    "url": "https://jihulab.com/dsc/cclive/-/blob/main/cclive.txt",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
