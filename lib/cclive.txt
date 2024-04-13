@@ -263,6 +263,31 @@ CCTV5+,http://116.21.120.40:4433/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 
 
 🇨🇳｜卫视频道,#genre#
+广东卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=18 
+大湾区卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=19 
+湖南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=20 
+浙江卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=21 
+江苏卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=22 
+东方卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=23 
+安徽卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=24 
+北京卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=25 
+天津卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=26 
+山东卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=27 
+江西卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=28 
+深圳卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=29 
+湖北卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=30 
+辽宁卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=31 
+黑龙江卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=32 
+贵州卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=33 
+四川卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=34 
+河南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=35 
+云南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=36 
+重庆卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=37 
+河北卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=38 
+东南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=39 
+广西卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=40
+
+
 广东卫视,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=132 
 广东卫视,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=133 
 广东卫视,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=134 
