@@ -7,7 +7,7 @@
 "lives":[{"name":"live","type":0,"url":"http://o.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
 
 "sites": [
-    {"key":"豆瓣","name":"Chaobox专享┃【BY：超超工作室】","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"豆瓣","name":"Chaobox专享┃【BY：超超工作室】","type":3,"api":"csp_Douban","searchable":0},
     {"key":"南瓜","name":"Chaobox专享┃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"酷看","name":"Chaobox专享┃酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"苹果","name":"Chaobox专享┃苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
