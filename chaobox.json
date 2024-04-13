@@ -7,13 +7,20 @@
 
 "sites": [
 {"key":"豆瓣","name":"Chaobox专享┃【BY：超超工作室】","type":3,"api":"csp_Douban","searchable":0},
-{"key":"南瓜","name":"Chaobox专享┃瓜瓜","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"南瓜","name":"Chaobox专享┃超超","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"热播","name":"Chaobox专享┃热播","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
 {"key":"追剧","name":"Chaobox专享┃追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
+{"key":"天天","name":"Chaobox专享┃天天","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
+{"key":"南瓜影视","name":"Chaobox专享┃南瓜","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/101.js"},
+{"key":"畅梦影视","name":"Chaobox专享┃畅梦","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/103.js"},
+{"key":"达达龟","name":"Chaobox专享┃达达","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/104.js"},
+{"key":"腾","name":"Chaobox专享┃腾腾","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/tt.js"},
+{"key":"优","name":"Chaobox专享┃优优","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/yy.js"},
+{"key":"芒","name":"Chaobox专享┃芒芒","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/mm.js"},
+{"key":"爱","name":"Chaobox专享┃奇奇","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/aa.js"},
 {"key":"低端","name":"Chaobox专享┃低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_JianPian","name":"Chaobox专享┃荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 {"key":"一起看","name":"Chaobox专享┃看看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"天天","name":"Chaobox专享┃天天","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
 {"key":"鸭奈飞","name":"Chaobox专享┃飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"酷影视","name":"Chaobox专享┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"热播之家","name":"Chaobox专享┃家家","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
@@ -22,14 +29,7 @@
 {"key":"csp_mgtva","name":"Chaobox专享┃木瓜","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
 {"key":"csp_ipianba","name":"Chaobox专享┃片吧","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
 {"key":"XBPQ_BaiPiao","name":"Chaobox专享┃白白","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
-{"key":"新视觉","name":"Chaobox专享┃新视","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
-{"key":"南瓜影视","name":"Chaobox专享┃南瓜","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/101.js"},
-{"key":"畅梦影视","name":"Chaobox专享┃畅梦","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/103.js"},
-{"key":"达达龟","name":"Chaobox专享┃达达","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/104.js"},
-{"key":"腾","name":"Chaobox专享┃腾腾","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/tt.js"},
-{"key":"优","name":"Chaobox专享┃优优","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/yy.js"},
-{"key":"芒","name":"Chaobox专享┃芒芒","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/mm.js"},
-{"key":"爱","name":"Chaobox专享┃奇奇","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/aa.js"}
+{"key":"新视觉","name":"Chaobox专享┃新视","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"}
 ],
 
 "parses":
