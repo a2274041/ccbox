@@ -10,7 +10,7 @@
     {"key":"萌米","name":"Chaobox专享┃萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
     {"key":"天天","name": "Chaobox专享┃天天","type":3,"api":"csp_TTian","playerType":1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
     {"key":"追剧","name": "Chaobox专享┃追剧","type":3,"api":"csp_TTian","playerType":1,"ext": "http://app.kzjtv.com$$$null$$$1"},
-    {"key":"賤賤","name":"Chaobox专享┃荐片","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/a2274041/ccbox/main/lib/jianpiannew.js","timeout":15},
+    {"key":"贱贱","name": "Chaobox专享┃贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
     {"key":"YQKan","name":"Chaobox专享┃一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"csp_Ikanbot","name":"Chaobox专享┃Ibot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.ikanbot.com"},
     {"key":"玩偶","name":"Chaobox专享┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"}
