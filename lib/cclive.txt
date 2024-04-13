@@ -264,7 +264,7 @@ CCTV5+,http://116.21.120.40:4433/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 
 🇨🇳｜卫视频道,#genre#
 广东卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=18 
-大湾区卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=19 
+深圳卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=29 
 湖南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=20 
 浙江卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=21 
 江苏卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=22 
@@ -274,7 +274,6 @@ CCTV5+,http://116.21.120.40:4433/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 天津卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=26 
 山东卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=27 
 江西卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=28 
-深圳卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=29 
 湖北卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=30 
 辽宁卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=31 
 黑龙江卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=32 
@@ -286,6 +285,7 @@ CCTV5+,http://116.21.120.40:4433/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 河北卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=38 
 东南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=39 
 广西卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=40
+大湾区卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=19 
 
 
 广东卫视,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=132 
@@ -906,6 +906,18 @@ TVBS新闻台,https://s2.pub/cctv-23
 
 
 🎀｜广东,#genre#
+广东珠江,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=41 
+广东新闻,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=42 
+广东民生,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=43 
+广东体育,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=44 
+经济科教,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=45 
+广东影视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=46 
+广东少儿,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=47 
+广州综合,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=48 
+广州新闻,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=49 
+广州影视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=50 
+广州法治,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=51
+
 广东珠江,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=16
 广东新闻,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=13 
 广东民生,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=10 
