@@ -1,25 +1,36 @@
 {
 "wallpaper":"https://深色壁纸.xxooo.cf/",
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a2274041/ccbox/main/fty.jar",
-"warningText":"欧歌提示:📢接口软件永远免费 📢长期维护切勿贩卖",
 
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/a2274041/ccbox/main/cc.jar",
 
-"lives":[{"name":"live","type":0,"url":"http://o.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://raw.githubusercontent.com/a2274041/ccbox/main/lib/cclive.txt","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
 
 "sites": [
-    {"key":"豆瓣","name":"Chaobox专享┃【BY：超超工作室】","type":3,"api":"csp_Douban","searchable":0},
-    {"key":"南瓜","name":"Chaobox专享┃南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"酷看","name":"Chaobox专享┃酷看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"苹果","name":"Chaobox专享┃苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_Nmys","name":"Chaobox专享┃农民","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/a2274041/ccbox/main/lib/nmys.json"},
-    {"key":"萌米","name":"Chaobox专享┃萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-    {"key":"天天","name":"Chaobox专享┃天天","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
-    {"key":"热播","name":"Chaobox专享┃热播","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
-    {"key":"追剧","name":"Chaobox专享┃追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
-    {"key":"贱贱","name":"Chaobox专享┃贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
-    {"key":"YQKan","name":"Chaobox专享┃一起","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"csp_Ikanbot","name":"Chaobox专享┃Ibot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.ikanbot.com"},
-    {"key":"玩偶","name":"Chaobox专享┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"}
+{"key":"豆瓣","name":"Chaobox专享┃【BY：超超工作室】","type":3,"api":"csp_Douban","searchable":0},
+{"key":"南瓜","name":"Chaobox专享┃瓜瓜","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"热播","name":"Chaobox专享┃热播","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
+{"key":"追剧","name":"Chaobox专享┃追剧","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
+{"key":"低端","name":"Chaobox专享┃低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"机器人","name":"Chaobox专享┃机器","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_JianPian","name":"Chaobox专享┃荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+{"key":"一起看","name":"Chaobox专享┃看看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"天天","name":"Chaobox专享┃天天","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
+{"key":"鸭奈飞","name":"Chaobox专享┃飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
+{"key":"酷影视","name":"Chaobox专享┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"热播之家","name":"Chaobox专享┃家家","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
+{"key":"csp_hmhd","name":"Chaobox专享┃河马","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
+{"key":"csp_chrf","name":"Chaobox专享┃小米","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
+{"key":"csp_mgtva","name":"Chaobox专享┃木瓜","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
+{"key":"csp_ipianba","name":"Chaobox专享┃片吧","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
+{"key":"XBPQ_BaiPiao","name":"Chaobox专享┃白白","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
+{"key":"新视觉","name":"Chaobox专享┃新视","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
+{"key":"南瓜影视","name":"Chaobox专享┃南瓜","type":3,"api":"./lib/nxog.js","ext":"./lib/101.js"},
+{"key":"畅梦影视","name":"Chaobox专享┃畅梦","type":3,"api":"./lib/nxog.js","ext":"./lib/103.js"},
+{"key":"达达龟","name":"Chaobox专享┃达达","type":3,"api":"./lib/nxog.js","ext":"./lib/104.js"},
+{"key":"腾","name":"Chaobox专享┃腾腾","type":3,"api":"./lib/nxog.js","ext":"./lib/tt.js"},
+{"key":"优","name":"Chaobox专享┃优优","type":3,"api":"./lib/nxog.js","ext":"./lib/yy.js"},
+{"key":"芒","name":"Chaobox专享┃芒芒","type":3,"api":"./lib/nxog.js","ext":"./lib/mm.js"},
+{"key":"爱","name":"Chaobox专享┃奇奇","type":3,"api":"./lib/nxog.js","ext":"./lib/aa.js"}
 ],
 
 "parses":
