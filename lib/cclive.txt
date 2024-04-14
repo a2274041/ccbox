@@ -54,23 +54,24 @@ CGTN阿拉伯语,http://113.74.172.130:4000/udp/239.253.43.200:5146
 CGTN俄语,http://113.74.172.130:4000/udp/239.253.43.201:5146
 
 
-CCTV1,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=1 
-CCTV2,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=2 
-CCTV3,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=3 
-CCTV4,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=4 
-CCTV5,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=5 
-CCTV6,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=6 
-CCTV7,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=7
-CCTV8,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=8 
-CCTV9,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=9 
-CCTV10,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=10 
-CCTV11,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=11 
-CCTV12,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=12 
-CCTV13,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=13 
-CCTV14,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=14 
-CCTV15,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=15 
-CCTV16,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=16 
-CCTV17,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=17
+CCTV1,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=1 
+CCTV2,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=2 
+CCTV3,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=3 
+CCTV4,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=4 
+CCTV5,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=5 
+CCTV5+,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=6 
+CCTV6,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=7 
+CCTV7,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=8 
+CCTV8,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=9 
+CCTV9,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=10 
+CCTV10,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=11 
+CCTV11,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=12 
+CCTV12,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=13 
+CCTV13,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=14 
+CCTV14,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=15 
+CCTV15,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=16 
+CCTV16,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=17 
+CCTV17,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=18
 
 
 
@@ -370,29 +371,29 @@ CCTV5+,http://116.21.120.40:4433/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 延边卫视,http://113.74.172.130:4000/udp/239.77.0.10:5146
 
 
-广东卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=18 
-深圳卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=29 
-湖南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=20 
-浙江卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=21 
-江苏卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=22 
-东方卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=23 
-安徽卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=24 
-北京卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=25 
-天津卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=26 
-山东卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=27 
-江西卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=28 
-湖北卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=30 
-辽宁卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=31 
-黑龙江卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=32 
-贵州卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=33 
-四川卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=34 
-河南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=35 
-云南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=36 
-重庆卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=37 
-河北卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=38 
-东南卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=39 
-广西卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=40
-大湾区卫视,http://mywlkj.ddns.net:754/tv/gdgzdx.php?id=19 
+东南卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=19 
+东方卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=20 
+北京卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=21 
+四川卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=22 
+天津卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=23 
+安徽卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=24 
+广东卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=25 
+广西卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=26 
+新疆卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=27 
+江苏卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=28 
+江西卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=29 
+河北卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=30 
+河南卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=31 
+浙江卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=32 
+海南卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=33 
+深圳卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=34 
+湖北卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=35 
+湖南卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=36 
+贵州卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=37 
+辽宁卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=38 
+重庆卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=39 
+黑龙江卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=40
+
 
 
 广东卫视,http://mywlkj.ddns.net:754/tv/dgdxzb.php?id=132 
@@ -834,17 +835,23 @@ CCTV5+,http://116.21.120.40:4433/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&a
 
 
 🇨🇳 ｜港 澳 台,#genre#
-凤凰中文,http://mywlkj.ddns.net:754/tv/hk.php?id=26
-凤凰资讯,http://mywlkj.ddns.net:754/tv/hk.php?id=27
-凤凰资讯,http://mywlkj.ddns.net:754/tv/yximgs.php?id=10
-香港凤凰,http://mywlkj.ddns.net:754/tv/hk.php?id=28
+凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw.m3u8
+凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw1.m3u8 
+凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw2.m3u8
+凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8
+凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx1.m3u8 
+凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx2.m3u8
+凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8
+凤凰香港,http://mywlkj.ddns.net:754/tv/hk.php?id=28
+香港卫视,http://mywlkj.ddns.net:754/tv/hkstv.m3u8
+香港文旅,http://mywlkj.ddns.net:754/tv/hkstv1.m3u8
 翡翠台,https://cdn.ggapk.net/live/tv?id=75cfYSksEtNf7p1RXIqOrHJmEUWwDdXz50qsHhnpaxiZYj_xnNoI5xf-GZg3FYe55z3-ZttJ6Fngtr_fsfs2xNGm6GzAWM-DWYRJVVNy1C_iNPNRndAHQtfk5uWixCRFXqNBoU9V72-ttmAT1cKevDm3QJDFjuGE3B3XyVS7WvbBSbjIqkKprZiPfpshX48RS4GLAWBA_jGqbfyfbUKvMx8EMx9i5h_p9OV4ehiwT3FXxJL4xd2Yv2eI0NuMYecrv3jShkizzd9O0ieX6TiMWGglabYRWkRghEFkWBC7jtRZh1nCCstf1N33ip43vJY1Ydg5ZyLU3AbKx2hb-c1dFEQmHXhY0CfY3Hro6GZQJSFhpoDO7ABXq9BH-wXSNa8DsrnJrlbdASIFPcgWKhGtKFDKb5YvCvxSXpYcaHtCMpNpqeevSmeNzx_yI93MADU3qk6H_RSFZZ6DF2GUmkD9xgzKeyc86Jq2HnjdGeh_rKq2PaGXMBEwY8DfkKUBkvp2YP8A0w72xjGamzdVsguny0fv2NEKZuLxTgPUIKTiI0BjI6_VmhzzzogdnTAp9kZftBn872Ij&idp=249fTJSBA9joBwOr4xvACNTwcvuezVZGgluS_Og18vhqwCTfqZDuaD1eoQ
-翡翠台,http://50.7.220.170:8278/jade_twn/playlist.m3u8?tid=mc42afe005811&ct=19813&tsum=cb83afb231afab684ac9edbbcbe920f7
+翡翠台,http://50.7.92.160:8278/jade_twn/playlist.m3u8?tid=mc42afe005811&ct=19827&tsum=cb83afb231afab684ac9edbbcbe920f7
 J2,https://cdn.ggapk.net/live/tv?id=3e42N5SpGpqkltTZRYsq1CxLHCSnVsSNnbrjnqm4438oywLPX-lHKpby7Fk8UnL8QcVDI60v323diScXSmiHLubhuFLcPy_SAOBM8CSqfriuw5fzinYlx0G3Z0WQL3xdafFJR9f_kTw0WQHHBn3GyJcnp0jRCzhdqoTB-P8n_lwnddhczIG_ldJIVZPBnmooPY4MY3GJOkmtuwcxI1PB9WpGMtROVtAhPM642Zz3nxWxtjzQvIx07dqa_LglfY2gObNv3BwDk1XhkOyCyI-zuQLqquALw0u8s4m0z3Q7-i4NmTdEYgPX-uALUTkNgSvPycgO0_DAOzTJJxbeKkNISjvcxfrwC5QYUu_9RNvZHSyVt-8b-o1wws_nc4ENkbQv9QT074Z95raD8MbmEpue1JsU7LXBBt_WLYzG76dFP49M6kRgIv24npP8h1t2hwUjRrIibfpksI_Ca1dNo1CqTn-eXLZm56mE2_h8q0_4Kt7qr-BkU6SjLG5tJVG9ydqw6xlCEfNccJjeSVaQfM1xBbQvcISIPB4S-n1ifqm8qEqwJgWObIWQyImjIGl2Jey32sciXySndsbp6iBEGymctxn0uL8tBOiSQN4xIv5rSUhInA9Sp77rAsU_pfGO74uukdGcPe4L1CTv4uc&idp=87a3g5Rn6v_uNJCoeteMR8UMooxzX0dvZtKpKx4xoGTu6dTM29IBw8TtvQ
 J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=mc42afe005811&ct=19761&tsum=6aaf2ed5f60ba7adadda6384bb5ca574
 明珠台,https://cdn.ggapk.net/live/tv?id=33e0MNW31A75J4yct1-Q7c9piZmaL7Q1HQDEfPkqZzIEMg_yZUsXYsIw036X6lTikXgskatIfkF4Q7BoNot4AhC5uk8BBilTd5qU5G9LE6V42HGzMK1e_aRNx08MR-O3BP9K0H5Yo9xnxK4iV0P9N3SA4wZbIolUCna9GQ3ga827xmCIlk9Qu6NZGCZpXZaldws6Wi3P1pKI3jiWtkysdiKlBmtf3pnBklOVk9yQ3jdBv4w365JJAkH3tKSJYRREI0AVvl9ZgbeIpKOvwOw3gMDwg3gc8ZE3vTapGOSTeBOEqlXGUyStfNVS5E7fBQhNQtv8lB3NLNyyfSkzZKJuSwUBAv6J4L4j2juuW0MYEmS0OmSomFXnGZlY16CojbxDaRKYqCz-vVZnrwxrBI3h83rxtxNzqodEvkK2zPuGb460lntxgUKYR6a_NRJbPHfJ-nM_hjxGO0-1jjAxLGtoT3oYELt2qtuHEWw05cDxEgdZTSpttmB_YI2SdrPraGW3jqN5HiGlxB14BdErjh7wNRzD-OIAOhHN_HrBfnZJWDlmdURTW74qiqtFpZlabNFGqfHeUj6a&idp=bc58NCac8KJXHKO8lE4Z8430pJV6-YkSsFmFiaXAMcfQHivM-i2xFU9LrQ
 明珠台,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=mc42afe005811&ct=19761&tsum=f78ccbf55bab4c314973424ce47dead0
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://mywlkj.ddns.net:754/tv/tw.php?id=2
 凤凰资讯,http://14.126.29.44:5000/udp/239.255.30.70:8231
 凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/sc-gaFECQ/v1_index.m3u8
 凤凰资讯,http://113.86.206.105:9999/tsfile/live/1052_1.m3u8
